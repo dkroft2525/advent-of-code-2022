@@ -36,7 +36,6 @@ try {
     console.log(`Part 1 results: ${elfCalories[0].calories} Calories`);
     // Part 2 Result
     console.log(`Part 2 results: ${top3} Calories`);
-    // console.log(elfCalories);
 } catch (e) {
     console.error(e);
 }
