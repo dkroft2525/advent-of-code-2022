@@ -6,8 +6,6 @@ const shapes = {
     C: { points: 3, loseTo: 2, winTo: 1}, // Scissors
 };
 
-const shapeMap = {}
-
 const victoryPointMap = {
     X: 0, // Lose
     Y: 3, // Draw
